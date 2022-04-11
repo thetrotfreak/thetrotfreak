@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thetrotfreak
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning DSA
+- 👀 Java, Python 
 
 <!---
 thetrotfreak/thetrotfreak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
