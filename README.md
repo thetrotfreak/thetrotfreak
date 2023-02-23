@@ -1,5 +1,5 @@
-- 👋 Hello there!!! I'm Bivas.
-- 👀 I primarily use Python and Java. 
+- 👋🏼 Hi there! I'm _Bivas_.
+- 👀 I mostly use **Python** [🐍](https://www.python.org/) these days. 
 
 <!---
 thetrotfreak/thetrotfreak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
