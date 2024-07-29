@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🌱 Contributions
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thetrotfreak&&show_icons=true&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thetrotfreak&&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
 
 
 ### ✨ Stats
