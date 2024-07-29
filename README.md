@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ![thetrotfreak's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetrotfreak&show_icons=true&theme=gruvbox)
 
 
-### Languages
+### 🧑🏼‍💻 Languages
 ![thetrotfreak's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thetrotfreak&layout=compact&theme=gruvbox&hide_border=true&hide_progress=true)
 
 > 🔍 me on my [website ](https://thetrotfreak.github.io/)
